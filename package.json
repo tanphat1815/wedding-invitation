@@ -1,10 +1,10 @@
 {
   "name": "wedding-invitation",
   "version": "1.0.1",
-  "description": "KyuHyuk Lee🤵 ❤ Jungwon Byeon👰 Wedding Invitation💌",
+  "description": "Tấn Phát🤵 ❤ Hồng Tươi👰 Thiệp cưới💌",
   "main": "index.js",
-  "repository": "https://github.com/LeeKyuHyuk/wedding-invitation.git",
-  "author": "KyuHyuk Lee <lee@kyuhyuk.kr>",
+  "repository": "https://github.com/tanphat1815/wedding-invitation",
+  "author": "Tấn Phát <tanphat1815@gmail.com>",
   "license": "MIT",
   "private": true,
   "scripts": {
@@ -19,7 +19,7 @@
     "@types/react-copy-to-clipboard": "^5.0.7",
     "@types/react-image-gallery": "^1.2.4",
     "antd": "^5.14.2",
-    "next": "14.1.0",
+    "next": "^14.2.23",
     "react": "^18",
     "react-copy-to-clipboard": "^5.1.0",
     "react-dom": "^18",

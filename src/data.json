@@ -1,32 +1,32 @@
 {
-  "date": "1970년 01월 01일, 목요일 오전 12시 00분",
-  "location": "○○○웨딩, ○층 ○○홀",
-  "gretting": "서로 마주 보며 다져온 사랑을\n이제 함께 한곳을 바라보며 걸어갈 수 있는\n큰 사랑으로 키우고자 합니다.\n저희 두 사람이 사랑의 이름으로 지켜나갈 수 있게\n앞날을 축복해 주시면 감사하겠습니다.",
+  "date": "Chủ nhật, ngày 08 tháng 07 năm 2025 (Âm Lịch)",
+  "location": "Áo cưới Phi Long, số 474 QL30, tổ 14, ấp 1, xã Bình Hàng Trung, huyện Cao Lãnh, tỉnh Đồng Tháp",
+  "gretting": "Chúng tôi đã xây dựng tình yêu qua những ánh nhìn âu yếm, Giờ đây, chúng tôi muốn biến tình yêu này thành một tình yêu sâu đậm hơn, bằng cách cùng nhau nhìn về một hướng và bước đi bên nhau. Chúng tôi sẽ trân trọng và gìn giữ tình yêu này dưới tên gọi tình yêu. Rất mong nhận được sự chúc phúc cho con đường phía trước của chúng tôi.",
   "groom": {
-    "name": "○○○",
-    "account_number": "○○은행 ***-***-******",
+    "name": "Ngô Tấn Phát",
+    "account_number": "Techcombank: 19071524655018",
     "parents": {
       "mother": {
-        "name": "○○○",
-        "account_number": "○○은행 ***-***-******"
+        "name": "Nguyễn Thị Kim Chi",
+        "account_number": "Techcombank: 19071524655018"
       },
       "father": {
-        "name": "○○○",
-        "account_number": "○○은행 ***-***-******"
+        "name": "Ngô Văn Đạt",
+        "account_number": "Techcombank: 19071524655018"
       }
     }
   },
   "bride": {
-    "name": "○○○",
-    "account_number": "○○은행 ***-***-******",
+    "name": "Trần Thị Hồng Tươi",
+    "account_number": "Techcombank: 19071524655018",
     "parents": {
       "mother": {
-        "name": "○○○",
-        "account_number": "○○은행 ***-***-******"
+        "name": "Nguyễn Thị Hiếu",
+        "account_number": "Techcombank: 19071524655018"
       },
       "father": {
-        "name": "○○○",
-        "account_number": "○○은행 ***-***-******"
+        "name": "Trần Minh Tâm",
+        "account_number": "Techcombank: 19071524655018"
       }
     }
   },
